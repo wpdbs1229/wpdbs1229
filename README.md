@@ -6,7 +6,7 @@
 Hi there! 👋 I'm Back-End developer using Spring Boot.
 I'M JeYoun. I like to enjoy new challenge 
 
-I enjoy hiking, running and game 🏃 ⛰️ 🎮
+I am a developer who likes cats 🐈 😸
 
 ### ⌨️ Skills
 
