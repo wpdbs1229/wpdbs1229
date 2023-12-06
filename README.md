@@ -19,3 +19,7 @@ Platforms & Languages <p>
 <br>
 <img src="https://img.shields.io/badge/Java-161A36?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
 
+
+### Languages
+
+github-readme-stats.vercel.app/api/top-langs/?username={wpdbs1229}&langs_count= 5
