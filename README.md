@@ -22,4 +22,4 @@ Platforms & Languages <p>
 
 ### Languages
 
-github-readme-stats.vercel.app/api/top-langs/?username={wpdbs1229}&langs_count= 5
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wpdbs1229&layout=compact&theme=merko)
