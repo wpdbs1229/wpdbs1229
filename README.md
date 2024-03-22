@@ -32,7 +32,3 @@ Platforms & Languages <p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
- ## 📘Education 
-|기간|활동 내용|기관|
-|-------|--------------|-----| 
-|`2024-03-20` ~`2024-09-12` |프로디지털아카데미|신한투자증권|
