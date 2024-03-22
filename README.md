@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=My%20cat%20allows%20me%20to%20code.%20When%20my%20laptop%20is%20cold.&fontSize=30&fontColor=#ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=My%20cat%20allows%20me%20to%20code.%20When%20my%20laptop%20is%20cold.&fontSize=30&fontColor=#ffffff&animation=fadeIn)
 
 ### Nice way to meet me 😃
 <a href="https://hidevelop.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-006600?style=flat-square&logo=Blog&logoColor=white"/></a>
@@ -28,5 +28,11 @@ Platforms & Languages <p>
 
 
 ### Status <p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-</p>
+
+
+ ## 📘Education 
+|기간|활동 내용|기관|
+|-------|--------------|-----| 
+|`2024-03-20` ~`2024-09-15` |프로디지털아카데미|신한투자증권|
