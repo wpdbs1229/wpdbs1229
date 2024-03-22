@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=My%20cat%20allows%20me%20to%20code.%20When%20my%20laptop%20is%20cold.&fontSize=30&fontColor=#ffffff&animation=fadeIn)
 
 ### Nice way to meet me 😃
 <a href="https://hidevelop.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-006600?style=flat-square&logo=Blog&logoColor=white"/></a>
@@ -7,6 +8,7 @@ Hi there! 👋 I'm Back-End developer using Spring Boot.
 I'M JeYoun. I like to enjoy new challenge 
 
 I am a developer who likes cats 🐈 😸
+
 
 ### ⌨️ Skills
 
@@ -20,6 +22,11 @@ Platforms & Languages <p>
 <img src="https://img.shields.io/badge/Java-161A36?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
 
 
-### Languages
+### Languages <p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wpdbs1229&layout=compact&theme=merko)
+
+
+### Status <p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+</p>
