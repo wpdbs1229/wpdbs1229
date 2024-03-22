@@ -29,6 +29,6 @@ Platforms & Languages <p>
 
 ### Status <p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Jeyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wpdbs1229&show_icons=true&theme=radical)
 
 
