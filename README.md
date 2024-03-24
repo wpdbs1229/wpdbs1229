@@ -37,3 +37,6 @@ Platforms & Languages <p>
 - Oauth2 를 활용한 로그인 구현
 - 자동화 배포 및 무중단 배포 환경 구현
 - Spring 2.x , JDK 11, MariaDB 환경에서 개발 경험
+
+### Education
+- 한국기술교육대학교 / 컴퓨터 공학과 : 2021.02 ~ 2024.02
