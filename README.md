@@ -21,7 +21,6 @@ Platforms & Languages <p>
 <br>
 <img src="https://img.shields.io/badge/Java-161A36?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
 
-
 ### Languages <p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wpdbs1229&layout=compact&theme=merko)
@@ -31,4 +30,10 @@ Platforms & Languages <p>
 
 ![Jeyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wpdbs1229&show_icons=true&theme=radical)
 
-
+### Experience
+(주) 제이케이코어 / Backend Engineer / Intern
+2023.07 ~ 2023.12 
+- 태양광 발전량, 발전 수익금 REST API 개발
+- Oauth2 를 활용한 로그인 구현
+- 자동화 배포 및 무중단 배포 환경 구현
+- Spring 2.x , JDK 11, MariaDB 환경에서 개발 경험
