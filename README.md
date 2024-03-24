@@ -4,9 +4,9 @@
 <a href="https://hidevelop.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-006600?style=flat-square&logo=Blog&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ghdlrr2969@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></br>
 
-안녕하세요 👋 
-I am a developer who likes cats 🐈 😸
-
+안녕하세요 👋 고양이를 좋아하는 개발자 이제윤입니다.🐈 😸
+코드는 한 줄의 논문이라고 생각하며, 정리를 중요시하며 개발하기위해 노력합니다.
+다양한 아이디어는 맥락없는 대화에서 나온다고 생각하기에 시시콜콜한 대화를 좋아합니다.
 
 ### ⌨️ Skills
 
