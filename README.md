@@ -36,9 +36,25 @@ Platforms & Languages
 - Spring 2.x , JDK 11, MariaDB 환경에서 개발 경험
 
 ### Project
-|기간|내용|설명|링크|
-|------|------|------|------|
-|2023.07 ~ 2023.12| 오늘헤 | 태양광 발전 모니터링 어플리케이션 |https://url.kr/xe9vlw|
+<table>
+  <thead>
+    <tr>
+      <th>기간</th>
+      <th>내용</th>
+      <th>설명</th>
+      <th>링크</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2023년 7월 ~ 2023년 12월</td>
+      <td>오늘헤</td>
+      <td>태양광 발전 모니터링 어플리케이션</td>
+      <td>https://url.kr/xe9vlw</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Education
 한국기술교육대학교 / 컴퓨터 공학과
