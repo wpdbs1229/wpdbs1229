@@ -10,21 +10,21 @@
 
 ### ⌨️ Skills
 
-Platforms & Languages <p>
+Platforms & Languages
 
-<img src="https://img.shields.io/badge/Spring-43B02A?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mysql-2F8CBB?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-43B02A?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mysql-2F8CBB?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Java-161A36?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-161A36?style=flat-square&logo=OpenJDK&logoColor=white"/>
 
-### Languages <p>
+### Languages 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wpdbs1229&layout=compact&theme=merko)
 
 
-### Status <p>
+### Status
 
 ![Jeyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wpdbs1229&show_icons=true&theme=radical)
 
