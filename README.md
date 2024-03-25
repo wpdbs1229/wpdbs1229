@@ -45,4 +45,4 @@ Platforms & Languages <p>
 ### Class
 Code channel 
 - 2023.12 ~ 현재
-- 코테 문제 풀고 떠들어보기
+- 서로 코드보고 리뷰하며 떠들기!
