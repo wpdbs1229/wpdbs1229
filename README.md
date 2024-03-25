@@ -32,8 +32,8 @@ Platforms & Languages <p>
 (주) 제이케이코어 / Backend Engineer / Intern <br>
 - 2023.07 ~ 2023.12 
 - 태양광 발전량, 발전 수익금 REST API 개발
-- Oauth2 를 활용한 로그인 구현
-- Spring Security + JWT를 활용한 회원가입, 로그인 구현
+- QureyDSL, MyBatis, JPA 활용 경험
+- Spring Security + JWT, Oauth2를 활용한 회원가입, 로그인 구현
 - Docker, Jenkinse 자동화 배포 및 무중단 배포 환경 구현
 - AWS EC2, AWS RDS, Docker를 활용해 서버 배포 및 운영 경험
 - Spring 2.x , JDK 11, MariaDB 환경에서 개발 경험
