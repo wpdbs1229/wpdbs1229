@@ -50,7 +50,7 @@ Platforms & Languages
       <td>2023년 7월 ~ 2023년 12월</td>
       <td>오늘헤</td>
       <td>태양광 발전 모니터링 어플리케이션</td>
-      <td>https://url.kr/xe9vlw</td>
+      <td><a href="https://url.kr/xe9vlw">Go GooglePaly</a></td>
     </tr>
   </tbody>
 </table>
