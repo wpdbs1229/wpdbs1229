@@ -19,15 +19,6 @@ Platforms & Languages <p>
 <br>
 <img src="https://img.shields.io/badge/Java-161A36?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
 
-### Languages <p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wpdbs1229&layout=compact&theme=merko)
-
-
-### Status <p>
-
-![Jeyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wpdbs1229&show_icons=true&theme=radical)
-
 ### Experience
 (주) 제이케이코어 / Backend Engineer / Intern <br>
 - 2023.07 ~ 2023.12 
@@ -46,3 +37,14 @@ Platforms & Languages <p>
 Code channel 
 - 2023.12 ~ 현재
 - 서로 코드보고 리뷰하며 떠들기!
+
+### Languages <p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wpdbs1229&layout=compact&theme=merko)
+
+
+### Status <p>
+
+![Jeyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wpdbs1229&show_icons=true&theme=radical)
+
+
