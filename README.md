@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=My%20cat%20allows%20me%20to%20code.%20When%20my%20laptop%20is%20cold.&fontSize=30&fontColor=#ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=b678e8&height=250&section=header&text=My%20cat%20allows%20me%20to%20code.%20When%20my%20laptop%20is%20cold.&fontColor=d6ace6&fontSize=30&animation=fadeIn)
 
 ### Nice way to meet me 😃
 <a href="https://hidevelop.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-006600?style=flat-square&logo=Blog&logoColor=white"/></a>
