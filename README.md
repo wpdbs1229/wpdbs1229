@@ -61,6 +61,6 @@ Platforms & Languages
 - 2021.02 ~ 2024.02
 
 ### Class
-Code channel 
-- 2023.12 ~ 현재
-- 서로 코드보고 리뷰하며 떠들기!
+<strong>Code channel</strong> 
+- 2023.12 ~ 
+- 운영진
