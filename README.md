@@ -1,67 +1,119 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=b678e8&height=220&section=header&text=My%20cat%20allows%20me%20to%20code.%20When%20my%20laptop%20is%20cold.&fontColor=d6ace6&fontSize=28&animation=fadeIn)
+<div align="center">
+
+<img src="assets/catdex-icon.png" width="88" alt="냥도감 아이콘" />
 
 # 이제윤 · Lee JeYoun
 
 **문제를 찾아서, 만들고, 출시하고, 사용자 이야기로 다시 고칩니다.**
 
-백엔드 개발자로 1년 8개월 일했고, 지금은 길고양이 기록 앱 **냥도감**을 혼자 만들어 운영하고 있습니다.
-기획부터 구현, 스토어 출시, 운영, 마케팅까지 직접 합니다. 고양이를 좋아합니다. 🐈
+백엔드 개발 1년 8개월 → 지금은 길고양이 기록 앱 **냥도감**을 혼자 만들어 운영합니다.
 
-<a href="mailto:ghdlrr2969@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://hidevelop.tistory.com"><img src="https://img.shields.io/badge/Blog-006600?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://www.instagram.com/nangdogam"><img src="https://img.shields.io/badge/냥도감-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:dlwpdbs1229@kakao.com"><img src="https://img.shields.io/badge/dlwpdbs1229@kakao.com-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" alt="Email" /></a>
+<a href="https://hidevelop.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog" /></a>
+<a href="https://www.instagram.com/nangdogam"><img src="https://img.shields.io/badge/@nangdogam-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<sub><i>My cat allows me to code. When my laptop is cold.</i> 🐈</sub>
+
+</div>
 
 <br>
 
-## 지금 만들고 있는 것
+## 🚀 만들고 있는 것
 
-### 🐾 냥도감 — 길고양이를 사진 한 장으로 기록하는 도감 앱
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`1인 창업` `2026.05 ~ 현재` · [소개 페이지](https://catdex.muppin.org) · App Store / Google Play에서 '냥도감' 검색
+<a href="https://catdex.muppin.org"><img src="assets/catdex.png" alt="냥도감" /></a>
 
-- 유기묘 봉사자에게서 "돌보는 고양이가 너무 많아 관리하기 어렵다"는 이야기를 듣고 시작했습니다.
-- 첫 커밋부터 **4개월 만에 양대 스토어에 출시**했고, 출시 뒤 일주일 동안 사용자 피드백으로 **업데이트를 3번** 냈습니다.
-- "등록이 느려요"라는 말에 직접 재 보니 서버(평균 100ms)가 아니라 3~5MB 사진 업로드가 병목이었습니다. 압축해서 고쳤습니다.
-- 중성화 여부를 사진으로 가려내는 모델을 실험했습니다. 공개 모델은 제가 찍은 사진 17장 중 1장만 맞혀서, 사진 301장을 직접 분류해 다시 학습시켰습니다(교차검증 74%). 실제 사진에서는 아직 부족해 앱에는 넣지 않았습니다.
-- 출시 한 달, 가입자 83명 · 최근 30일 접속자 82명 (2026.10.08 기준)
+### 냥도감
 
-### 🎨 Wiggle — 초등 교실용 AI 그림 코칭 웹앱
+**길고양이를 사진 한 장으로 기록하는 도감 앱**<br>
+<sub>1인 창업 · 2026.05 ~ 현재 · React Native(Expo) · Supabase</sub>
 
-`4인 팀 (개발 2 · 영업 2)` `2026.06 ~ 현재` · 제품 결정과 프론트엔드 담당 · [www.kkumtle.app](https://www.kkumtle.app)
+- 첫 커밋부터 **4개월 만에 양대 스토어 출시**
+- 출시 뒤 일주일 동안 피드백으로 **업데이트 3번**
+- 출시 한 달, **가입자 83명** <sub>(2026.10.08 기준)</sub>
 
-- 초등학교 수업에서 직접 테스트했습니다. 아이들이 AI 도우미 버튼을 거의 누르지 않아서, 도우미가 먼저 말을 걸도록 바꿨습니다.
-- "보안을 위해 6자리 코드" 의견과 "아이들은 긴 코드를 못 친다"는 선생님 의견이 부딪혔을 때, **반 QR + 4자리 코드**로 둘 다 지켰습니다.
-- "도화지가 작아요", "펜보다 선이 늦게 따라와요"라는 현장 피드백을 받아 도화지를 넓히고 펜슬 지연을 없앴습니다.
+[소개 페이지](https://catdex.muppin.org) · [Instagram](https://www.instagram.com/nangdogam)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://www.kkumtle.app"><img src="assets/wiggle.png" alt="Wiggle" /></a>
+
+### Wiggle
+
+**초등 교실용 AI 그림 코칭 웹앱**<br>
+<sub>4인 팀 · 제품 결정 · 프론트엔드 · 2026.06 ~ 현재 · Next.js</sub>
+
+- **초등학교 수업에서 직접 테스트**하고 고침
+- 아이들이 버튼을 안 눌러, **AI가 먼저 말을 걸게** 변경
 - 2026 경기청년 갭이어 팀 선정
 
-### 🏠 Muppin — 홈 라이프 SNS 앱
+[www.kkumtle.app](https://www.kkumtle.app)
 
-`팀` `2026.03 ~ 2026.08` · 백엔드 · 인프라 담당 · Google Play 출시
+</td>
+</tr>
+</table>
 
-- 라즈베리파이 2대로 홈서버를 직접 구축하고, Docker 단일 배포를 Kubernetes로 전환해 모니터링과 장애 알림까지 붙였습니다.
+<details>
+<summary><b>냥도감에서 풀어 본 문제들</b></summary>
+<br>
+
+| 들은 말 · 마주친 문제 | 한 일 |
+|---|---|
+| "등록이 느려요" | 직접 재 보니 서버(평균 100ms)가 아니라 3~5MB 사진 업로드가 병목. 압축해서 해결 |
+| "죽은 앱 같아요" | 운영 데이터를 열어 보니 등록된 고양이가 5마리. 지도를 '쌓인 활동'을 보여 주는 판으로 다시 설계 |
+| 지자체 제안에 답이 없음 | 보여 줄 데이터가 없어서라고 판단. 중성화 여부를 사진으로 가려내는 모델을 실험 |
+| 공개 모델이 내 사진 17장 중 1장만 맞힘 | 사진 301장을 직접 분류해 다시 학습(교차검증 74%). 실제 사진에서는 부족해 앱에는 넣지 않음 |
+
+</details>
+
+<details>
+<summary><b>Wiggle에서 풀어 본 문제들</b></summary>
+<br>
+
+| 들은 말 · 마주친 문제 | 한 일 |
+|---|---|
+| "보안상 6자리 코드" vs "아이들은 긴 코드를 못 쳐요" | 반 QR로 반을 먼저 정하고 4자리만 입력. 두 의견을 모두 지킴 |
+| "도화지가 너무 작아요" | 축소하면 화면 3장 너비까지 확장. 예전 작품은 그대로 열리게 유지 |
+| "펜보다 선이 늦게 따라와요" | 그리는 중인 선을 얇은 층에 따로 그려 지연 제거 |
+| "집을 그렸는데 다른 걸로 추측해요" | AI에 보내는 그림이 너무 작게 줄어든 것과 지시문, 원인 2개를 찾아 수정 |
+
+</details>
 
 <br>
 
-## 경력
+## 💼 경력
 
-| 기간 | 회사 | 한 일 |
-|---|---|---|
-| 2025.06 ~ 2026.07 | **㈜날리지포인트** · 시스템본부 주임 | KT 스팸 차단 서비스(누적 가입자 2,500만 명) 서버 개발·운영<br>· 배치 프로그램 33개를 Solaris/C에서 Azure/Java 17로 전환<br>· GitHub Actions + Jenkins로 33개 모듈 배포 자동화<br>· 서버 4대가 같은 메시지를 중복 발송하던 문제 해결 |
-| 2023.07 ~ 2023.12 | **㈜제이케이코어** · 웹연구개발부서 인턴 | 태양광 발전 모니터링 앱 '오늘해' 서버 개발<br>· 발전량·수익금 REST API, 로그인(Spring Security + JWT, OAuth2)<br>· Jenkins + Nginx로 자동 배포·무중단 배포 |
+**㈜날리지포인트** · 시스템본부 주임 · <sub>2025.06 ~ 2026.07</sub><br>
+KT 스팸 차단 서비스(누적 가입자 2,500만 명) 서버 개발 · 운영
+
+- 배치 프로그램 33개를 Solaris/C에서 **Azure/Java 17로 전환**
+- GitHub Actions + Jenkins로 **33개 모듈 배포 자동화**
+- 서버 4대가 같은 메시지를 **중복 발송하던 문제 해결**
+
+**㈜제이케이코어** · 웹연구개발부서 인턴 · <sub>2023.07 ~ 2023.12</sub><br>
+태양광 발전 모니터링 앱 '오늘해' 서버 개발
+
+- 발전량 · 수익금 REST API, 로그인(Spring Security + JWT, OAuth2)
+- Jenkins + Nginx로 **무중단 배포** 구성
 
 <br>
 
-## 기술
+## 🛠 기술
 
-**Backend** &nbsp; Java · Spring Boot · JPA · MariaDB · PostgreSQL(Supabase)<br>
-**Infra** &nbsp; Docker · Kubernetes · AWS · Azure · GitHub Actions · Jenkins<br>
-**Product** &nbsp; React Native(Expo) · Next.js · RevenueCat · PostHog · Sentry<br>
-**AI** &nbsp; Claude Code · Codex · 프롬프트 설계 · PyTorch(EfficientNet 파인튜닝)
+<img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,azure,githubactions,jenkins,nginx&theme=light" alt="Backend and Infra" />
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,supabase,postgres,pytorch&theme=light" alt="Product and AI" />
+
+<sub>AI 도구: Claude Code · Codex · 프롬프트 설계</sub>
 
 <br>
 
-## 학력 · 자격
+## 🎓 학력 · 자격
 
-- 한국기술교육대학교 컴퓨터공학 졸업 (편입, 2021.03 ~ 2025.09)
-- 정보처리기사 (2024.06) · 리눅스마스터 2급 (2025.07)
-- 2026 모두의 창업 1라운드 합격 (냥도감)
+- 한국기술교육대학교 컴퓨터공학 졸업 <sub>(편입, 2021.03 ~ 2025.09)</sub>
+- 정보처리기사 <sub>(2024.06)</sub> · 리눅스마스터 2급 <sub>(2025.07)</sub>
+- 2026 모두의 창업 1라운드 합격 <sub>(냥도감)</sub>
